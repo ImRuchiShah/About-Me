@@ -1,7 +1,8 @@
 # About-Me
 
-⚡** Tools & Languages**
+⚡ Tools & Languages
 
+![image](https://user-images.githubusercontent.com/123503542/215300345-6df5da1b-5655-4cc4-8070-6fc450ca2e66.png)
 **Data Analytics Tools:**
 
 ![image](https://user-images.githubusercontent.com/123503542/215300069-094efe2d-5f37-4710-a0e2-06a05e31f55a.png)
