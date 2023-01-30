@@ -1,5 +1,7 @@
 # About-Me
 
+An aspiring Data Analyst who strives to pose and answer questions with quantitative-driven insights.
+
 ⚡ Tools & Languages
 
 **Data Analytics Tools:**
