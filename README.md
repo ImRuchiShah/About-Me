@@ -13,7 +13,7 @@ An aspiring Data Analyst who strives to pose and answer questions with quantitat
 ![image](https://user-images.githubusercontent.com/123503542/215300132-75900c7f-e551-4318-8285-699915c82756.png)
 
 
-**Other Technical Language Skills:**
+**Other Technical Skills:**
 
 ![image](https://user-images.githubusercontent.com/123503542/215300183-34ee8e2b-6aef-4b81-a917-296e9504f751.png)
 ![image](https://user-images.githubusercontent.com/123503542/215300179-6e496d04-9dd3-4a7e-997b-f9d512e61619.png)
